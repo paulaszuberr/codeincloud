@@ -1,0 +1,12 @@
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\bin\Debug\netcoreapp2.1\Warsztaty.Core.deps.json
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\bin\Debug\netcoreapp2.1\Warsztaty.Core.dll
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\obj\Debug\netcoreapp2.1\Warsztaty.Core.csproj.CoreCompileInputs.cache
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\obj\Debug\netcoreapp2.1\Warsztaty.Core.AssemblyInfoInputs.cache
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\obj\Debug\netcoreapp2.1\Warsztaty.Core.AssemblyInfo.cs
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\obj\Debug\netcoreapp2.1\Warsztaty.Core.csprojAssemblyReference.cache
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\bin\Debug\netcoreapp2.1\Warsztaty.Core.pdb
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\obj\Debug\netcoreapp2.1\Warsztaty.Core.dll
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\obj\Debug\netcoreapp2.1\Warsztaty.Core.pdb
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\bin\Debug\netcoreapp2.1\Warsztaty.ViewModel.dll
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\bin\Debug\netcoreapp2.1\Warsztaty.ViewModel.pdb
+c:\users\paula\source\repos\Warsztaty\Warsztaty.Core\obj\Debug\netcoreapp2.1\Warsztaty.Core.csproj.CopyComplete
