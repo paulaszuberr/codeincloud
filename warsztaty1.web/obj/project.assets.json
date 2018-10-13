@@ -11544,11 +11544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\paula\\source\\repos\\Warsztaty\\warsztaty1.web\\warsztaty1.web.csproj",
+      "projectUniqueName": "C:\\Users\\Paula\\source\\repos\\Warsztaty\\warsztaty1.web\\warsztaty1.web.csproj",
       "projectName": "warsztaty1.web",
-      "projectPath": "c:\\users\\paula\\source\\repos\\Warsztaty\\warsztaty1.web\\warsztaty1.web.csproj",
+      "projectPath": "C:\\Users\\Paula\\source\\repos\\Warsztaty\\warsztaty1.web\\warsztaty1.web.csproj",
       "packagesPath": "C:\\Users\\Paula\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\paula\\source\\repos\\Warsztaty\\warsztaty1.web\\obj\\",
+      "outputPath": "C:\\Users\\Paula\\source\\repos\\Warsztaty\\warsztaty1.web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11567,11 +11567,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\users\\paula\\source\\repos\\Warsztaty\\Warsztaty.Core\\Warsztaty.Core.csproj": {
-              "projectPath": "c:\\users\\paula\\source\\repos\\Warsztaty\\Warsztaty.Core\\Warsztaty.Core.csproj"
+            "C:\\Users\\Paula\\source\\repos\\Warsztaty\\Warsztaty.Core\\Warsztaty.Core.csproj": {
+              "projectPath": "C:\\Users\\Paula\\source\\repos\\Warsztaty\\Warsztaty.Core\\Warsztaty.Core.csproj"
             },
-            "c:\\users\\paula\\source\\repos\\Warsztaty\\WarsztatyViewModel\\Warsztaty.ViewModel.csproj": {
-              "projectPath": "c:\\users\\paula\\source\\repos\\Warsztaty\\WarsztatyViewModel\\Warsztaty.ViewModel.csproj"
+            "C:\\Users\\Paula\\source\\repos\\Warsztaty\\WarsztatyViewModel\\Warsztaty.ViewModel.csproj": {
+              "projectPath": "C:\\Users\\Paula\\source\\repos\\Warsztaty\\WarsztatyViewModel\\Warsztaty.ViewModel.csproj"
             }
           }
         }
